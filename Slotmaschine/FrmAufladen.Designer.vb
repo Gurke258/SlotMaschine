@@ -39,7 +39,7 @@ Partial Class FrmAufladen
         Me.LblGuthaben.AutoSize = True
         Me.LblGuthaben.BackColor = System.Drawing.Color.Transparent
         Me.LblGuthaben.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.25!)
-        Me.LblGuthaben.Location = New System.Drawing.Point(55, 9)
+        Me.LblGuthaben.Location = New System.Drawing.Point(42, 9)
         Me.LblGuthaben.Name = "LblGuthaben"
         Me.LblGuthaben.Size = New System.Drawing.Size(346, 76)
         Me.LblGuthaben.TabIndex = 0
@@ -114,7 +114,7 @@ Partial Class FrmAufladen
         Me.PictureBox1.Image = Global.Slotmaschine.My.Resources.Resources.piggy_bank_2889042_1920
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(415, 251)
+        Me.PictureBox1.Size = New System.Drawing.Size(419, 255)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 8
         Me.PictureBox1.TabStop = False
